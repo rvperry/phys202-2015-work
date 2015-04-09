@@ -7,5 +7,5 @@ I have read and understand the rules regarding academic honesty and I agree to a
 I pledge on my honor that I have not given or received any unauthorized assistance on
 assignments, examinations or projects in this course.
 
-Signed: `<FULL NAME HERE>`
-Date: `<TODAYS DATE HERE>`
+Signed: `Ryan Perry`
+Date: `4/8/15
